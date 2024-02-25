@@ -27,12 +27,12 @@ git clone https://github.com/your-username/news-app.git
 - Click on a news article to read more on the source website.
 
 ## Credits
-- The News API used in this project is provided by [NewsAPI.org](https://newsapi.org/).
+- The News API used in this project is provided by [NewsAPI.org]([https://newsapi.org/](https://newsdata.io/free-news-api)).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Additional Notes
-- Make sure to obtain your own API key from [NewsAPI.org](https://newsapi.org/) and replace the `API_KEY` variable in the `script.js` file with your key.
+- Make sure to obtain your own API key from (https://newsdata.io/free-news-api)) and replace the `API_KEY` variable in the `script.js` file with your key.
 - You can customize the design and layout of the application by modifying the `stylesheet.css` file.
 
