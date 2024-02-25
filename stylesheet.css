@@ -138,3 +138,22 @@ main{
 .news-source{
     margin-block: 12px;
 }
+@media only screen and (max-width:767px){
+   
+    .company-logo img{
+        width: 100px;
+        height: 50px;
+        background-color: #fff;
+        border-radius: 40%;
+    }
+    .nav-links ul{
+        display: none;
+    }
+    .container{
+        max-width: 767px;
+        margin-inline: auto;
+        justify-content: center;
+        overflow: hidden;
+    }
+    
+}
